@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🏥+MedVault;Healthcare+Document+Privacy+Pipeline;AI-Powered+HIPAA+Compliance+Automation" alt="MedVault Typing Animation" />
+# 🏥 MedVault
+
+### Healthcare Document Privacy Pipeline
+**AI-Powered · HIPAA Compliant · Medical-Grade Redaction**
 
 <br/>
 
@@ -9,13 +12,11 @@
 [![Python](https://img.shields.io/badge/Python-3.12.5-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-Frontend-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![HIPAA](https://img.shields.io/badge/HIPAA-Compliant-00C853?style=for-the-badge&logo=shield&logoColor=white)](#compliance)
+[![HIPAA](https://img.shields.io/badge/HIPAA-Compliant-00C853?style=for-the-badge&logoColor=white)](#compliance)
 
 <br/>
 
 > *"Privacy is not a barrier to Progress — It is the Foundation of Trust in Healthcare."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -416,11 +417,11 @@ python test_doc_create.py
 
 ---
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=fadeIn" width="100%"/>
-
-**MedVault** · Built with ❤️ for Healthcare Privacy
+**🏥 MedVault** · Built with ❤️ for Healthcare Privacy
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-00D4FF?style=for-the-badge)](https://medvault-medical-privacy-protection-pipeline-final-adm7pemqz.vercel.app/)
 [![Setup Guide](https://img.shields.io/badge/📖_Setup_Guide-Read_Docs-6C63FF?style=for-the-badge)](./SETUP_GUIDE.md)
