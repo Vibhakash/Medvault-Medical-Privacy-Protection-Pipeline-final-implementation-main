@@ -1,0 +1,39 @@
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.1/en_core_web_md-3.7.1-py3-none-any.whl
+#sha256=6a0f857a2b4d219c6fa17d455f82430b365bf53171a2d919b9376e5dc9be032e
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
+# Core
+fastapi
+fastapi-cli
+uvicorn
+httpx
+safehttpx
+python-dotenv
+python-multipart
+SQLAlchemy
+twilio
+
+# Data
+numpy==1.26.4
+spacy==3.7.2
+thinc==8.2.2
+blis==0.7.11
+pandas
+geopandas
+
+# Image / Document
+opencv-python
+pillow
+pydicom
+pdf2image
+pdfplumber
+PyMuPDF
+python-docx
+reportlab
+pytesseract
+
+# NLP
+spacy
+scispacy
+spacy-legacy
+spacy-loggers
